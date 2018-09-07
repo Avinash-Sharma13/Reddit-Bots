@@ -9,3 +9,5 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+config.py
+Comments_replied_to.txt
